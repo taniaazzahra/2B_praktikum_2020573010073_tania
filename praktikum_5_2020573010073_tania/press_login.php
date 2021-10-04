@@ -11,9 +11,10 @@
         $username=$_POST["username"];
         $password=$_POST["password"];
     ?>
-    Username : <?echo $username?>
+    Username : <?php echo $username?>
     <br>
-    Password : </echo $password?>
+    Password : <?php echo $password?>
     <br>
+    
 </body>
 </html>

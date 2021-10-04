@@ -4,7 +4,7 @@
     <title>Contoh Form dengan POST</title>
 </head>
 <body>
-    <form action="pro_post_niali.php" method="post">
+    <form action="pro_post_nilai.php" method="post">
         Bil I :
         <input type="text" name="bil1">
         <br>
