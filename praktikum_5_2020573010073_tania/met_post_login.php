@@ -11,7 +11,7 @@
         <h1>Untuk halaman login</h1>
         <hr>
         Username : <input type="text"
-        name"username">
+        name="username">
         <br>
         Password : <input type="password"
         name="password">
