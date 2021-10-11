@@ -7,7 +7,7 @@
     <title>method get proses</title>
 </head>
 <body>
-   nama yang anda inputkan adalah:<?echo
-$_get["nama"]?> 
+   nama yang anda inputkan adalah:
+   <?php echo $_GET["nama"]?> 
 </body>
 </html>

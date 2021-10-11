@@ -15,6 +15,6 @@
     <br>
     Password : <?php echo $password?>
     <br>
-    
+
 </body>
 </html>

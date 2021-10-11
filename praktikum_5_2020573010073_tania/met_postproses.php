@@ -8,7 +8,7 @@
 </head>
 <body>
     Alamat anda adalah : 
-    <? echo $_POST["alamat"];
+    <?php echo $_POST["alamat"];
     ?>
 </body>
 </html>
