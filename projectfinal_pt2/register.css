@@ -1,0 +1,83 @@
+#card {
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+    backdrop-filter: blur(0px) saturate(186%);
+    -webkit-backdrop-filter: blur(0px) saturate(186%);
+    background-color: rgba(205, 183, 183, 0.7);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+body {
+    background-image:url('assets/img/img1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#card-content {
+    padding: 12px 44px;
+}
+
+#card-title {
+    color: black;
+    letter-spacing: 5px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+label {
+    font-size: 11pt;
+}
+
+#forgot-pass {
+    color: #3d4550;
+    font-family: sans-serif;
+    font-size: 10pt;
+    margin-top: 3px;
+    text-align: right;
+}
+
+.form {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-border {
+    background: #495464;
+    height: 1px;
+    width: 100%;
+}
+
+.form-content {
+    background: transparent;
+    border: none;
+    outline: none;
+    padding-top: 14px;
+}
+
+
+#submit-btn {
+    font-family: sans-serif;
+    background: rgb(0, 0, 0);
+    border: none;
+    border-radius: 21px;
+    cursor: pointer;
+    color: white;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 45px;
+    width: 153px;
+}
+
+#submit-btn:hover {
+    box-shadow: 0px 1px 18px black;
+}
