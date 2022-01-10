@@ -1,0 +1,17 @@
+@media screen and (min-width : 994px){
+    .form-control{
+            width: 350px;
+        }
+    }
+    
+    @media screen and (min-width : 994px){
+    .navbar-nav{
+            text-align: center;
+        }
+    }
+    
+    /*Style Kategori*/
+    .img-categori{
+        width: 275px;
+    }
+    /* Style Kategori */
